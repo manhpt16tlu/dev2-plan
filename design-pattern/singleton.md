@@ -27,7 +27,7 @@
 
 ![alt](/design-pattern/img/2025-03-09_174350.png)
 
-==> An toàn với đa luồng nhưng ảnh hưởng hiệu suất
+==> An toàn với đa luồng nhưng ảnh hưởng hiệu suất do dùng lock
 
 ![alt](/design-pattern/img/2025-03-09_174537.png)
 
