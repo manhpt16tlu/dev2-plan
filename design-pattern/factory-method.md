@@ -1,7 +1,7 @@
 - [1. Khái niệm](#1-khái-niệm)
 - [2. Cấu trúc](#2-cấu-trúc)
-- [2. Thực hành](#2-thực-hành)
-- [3. Kết luận](#3-kết-luận)
+- [3. Thực hành](#3-thực-hành)
+- [4. Kết luận](#4-kết-luận)
 
 # 1. Khái niệm
 
@@ -19,7 +19,7 @@
 
 - ![alt](/design-pattern/img/factory.png)
 
-# 2. Thực hành
+# 3. Thực hành
 
 - Tạo các lớp theo đúng cấu trúc của factory pattern
 
@@ -41,7 +41,7 @@
   ![alt](/design-pattern/img/2025-03-09_163056.png)
   ![alt](/design-pattern/img/2025-03-09_163626.png)
 
-# 3. Kết luận
+# 4. Kết luận
 
 - Ưu điểm:
 

@@ -1,3 +1,5 @@
+- Design Patternlà các giải pháp đã được kiểm chứng để giải quyết những vấn đề phổ biến trong lập trình hướng đối tượng. Chúng giúp tăng hiệu quả, khả năng mở rộng và bảo trì của mã nguồn.
+
 - design pattern thường chia thành 3 nhóm chính:
 
   - Creational Patterns (nhóm khởi tạo): Nhóm này giúp quản lý việc tạo đối tượng một cách linh hoạt, tối ưu hóa hiệu suất và tránh việc khởi tạo không cần thiết. Một số pattern phổ biến
