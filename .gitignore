@@ -1,0 +1,62 @@
+# 🔹 Bỏ qua thư mục bin và obj (build artifacts)
+bin/
+obj/
+
+# 🔹 Loại bỏ thư mục của Visual Studio và .NET
+.vs/
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.cache/
+
+# 🔹 Loại bỏ các file lock và logs
+project.lock.json
+project.assets.json
+*.log
+
+# 🔹 Loại bỏ thư mục của NuGet (dependencies)
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+
+# 🔹 Loại bỏ các file tạm thời của hệ điều hành
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 🔹 Loại bỏ file môi trường và cài đặt cá nhân
+.env
+appsettings*.json
+secrets.json
+
+# 🔹 Loại bỏ file debug và dump
+*.pdb
+*.stackdump
+
+# 🔹 Loại bỏ file database SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# 🔹 Loại bỏ các file của Rider / JetBrains
+.idea/
+*.iml
+*.sln.iml
+
+# 🔹 Loại bỏ các file cache của Git
+*.orig
+
+# 🔹 Loại bỏ các thư mục chứa code test
+TestResults/
+__pycache__/
+coverage/
+node_modules/
+
+# 🔹 Loại bỏ file Docker
+docker-compose.override.yml
