@@ -33,13 +33,21 @@
 - Ví dụ về hệ thống bán hàng hỗ trợ nhiều phương thức thanh toán khác nhau
   
   ![alt](img/2025-03-16_17-17.jpg)
+
   - Định nghĩa strategy
+  - 
      ![alt](img/2025-03-16_17-17_1.jpg)
+
   - Các Concrete Strategy 
+  
      ![alt](img/2025-03-16_17-23.jpg) 
+
   - Định nghĩa context
+  
     ![alt](img/2025-03-16_17-28.jpg)
+
   - Chương trình
+  
      ![alt](img/2025-03-16_17-30.jpg)
 
 # 4. Kết luận
